@@ -1,0 +1,73 @@
+.web-color {
+  color: var(--iris, #4d5ae5);
+  font-family: Raleway;
+  font-style: bold;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+}
+.studio {
+  color: var(--navyblue, #2e2f42);
+  font-family: Raleway;
+  font-style: bold;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+}
+.adress {
+  color: var(--slate, #434455);
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 16;
+  font-weight: 400;
+  line-height: 150%;
+}
+.adress .link:hover {
+  color: red;
+}
+.menu {
+  color: var(--navyblue, #2e2f42);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
+.menu .link:hover {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
+.filter-button {
+  cursor: pointer;
+}
+.filter-button:hover {
+  color: red;
+}
+h2 {
+  color: var(--navyblue, #2e2f42);
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
+.Projectcards p {
+  color: var(--slate, #434455);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: var#434455;
+  background-color: var#FFFFFF;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --brand-color: #434455;
+}
