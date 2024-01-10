@@ -14,7 +14,11 @@
   --main-font-size: 16px;
   --main-line-height: 1.5;
 }
-
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
 /* Header*/
 
 .link {
@@ -125,11 +129,6 @@ Fourth main section*/
 
 /*Portfolio
 Main section*/
-body {
-  font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: #ffffff;
-}
 .button-portfolio {
   font-family: inherit;
   font-size: 16px;
